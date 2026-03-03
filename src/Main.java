@@ -10,7 +10,7 @@ public class Main {
 
         Greeter greeter = new Greeter();
 
-        greeter.greet("andriidy");
+        greeter.greet("Student");
 
         int numberOfIterations = 100;
 
